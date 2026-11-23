@@ -1,10 +1,10 @@
 /* Die Botschaften sind bewusst einzeln lesbar. Am 24. Dezember erscheinen sie gemeinsam als Brief. */
 const messages = [
-  "Manchmal schaue ich dich einfach nur an und denke mir, was für ein unglaubliches Glück ich habe, dass ausgerechnet du die Frau an meiner Seite bist. ❤️",
+  "Manchmal schaue ich dich einfach nur an und denke mir, was für ein unglaubliches Glück ich habe, dass du die Frau an meiner Seite bist. ❤️",
   "Du bist das Beste, was mir je passiert ist. Ich würde mich jederzeit wieder für dich entscheiden, ohne auch nur eine Sekunde zu überlegen.",
   "Es gibt so viele kleine Dinge an dir, die ich liebe. Manche fallen dir selbst wahrscheinlich gar nicht auf, aber genau sie machen dich für mich so besonders.",
   "Dein Lächeln ist eines meiner absoluten Lieblingsdinge auf dieser Welt. Wenn du mich anlächelst, kann mein Tag noch so anstrengend gewesen sein. Plötzlich ist alles wieder gut.",
-  "Eine Umarmung von dir ist oft genau das, was ich brauche. Kein großes Reden, kein besonderer Anlass. Einfach nur du und ich. ❤️",
+  "Eine Umarmung von dir ist genau das, was ich brauche. Kein großes Reden, kein besonderer Anlass. Einfach nur du und ich. ❤️",
   "Ich liebe es, dass wir nicht nur ein Ehepaar, sondern auch beste Freunde sind. Wir lachen zusammen, blödeln herum und sind einfach ein richtig gutes Team.",
   "Mit dir kann ich so sein, wie ich wirklich bin. Ich muss mich nicht verstellen und kann einfach loslassen. Das ist ein unglaublich schönes Gefühl.",
   "Eigentlich ist es schon ein bisschen verrückt, wie sehr ich dich vermisse, wenn wir einmal nicht zusammen schlafen. Selbst eine einzige Nacht fühlt sich irgendwie komisch an.",
